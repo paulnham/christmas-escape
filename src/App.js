@@ -12,13 +12,13 @@ function App() {
             <PasswordAnswer stone="soul" correctAnswer="maze" hint="where are you?" initShow/>
           </Route>
           <Route path="/space">
-            <PasswordAnswer stone="space" correctAnswer="maze" hint="where are you?" />
+            <PasswordAnswer stone="space" correctAnswer="maze" hint="where are you?" initShow={false}/>
           </Route>
           <Route path="/time">
-            <PasswordAnswer stone="time" correctAnswer="16" hint="it's a number"/>
+            <PasswordAnswer stone="time" correctAnswer="16" hint="it's a number" initShow={false}/>
           </Route>
           <Route path="/mind">
-            <PasswordAnswer stone="mind" correctAnswer="3645" hint="it's a 4 digit number"/>
+            <PasswordAnswer stone="mind" correctAnswer="3645" hint="it's a 4 digit number" initShow={false}/>
           </Route>
           <Route path="/">
             <h1>Welcome to Gather Town Escape Room!</h1>
