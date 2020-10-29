@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/escape-room-password/static/css/main.b4b2e9c0.chunk.css",
-    "main.js": "/escape-room-password/static/js/main.08525aa4.chunk.js",
-    "main.js.map": "/escape-room-password/static/js/main.08525aa4.chunk.js.map",
+    "main.js": "/escape-room-password/static/js/main.bc17cc9e.chunk.js",
+    "main.js.map": "/escape-room-password/static/js/main.bc17cc9e.chunk.js.map",
     "runtime-main.js": "/escape-room-password/static/js/runtime-main.f20e720f.js",
     "runtime-main.js.map": "/escape-room-password/static/js/runtime-main.f20e720f.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/escape-room-password/static/css/2.20aa2d7b.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.861ca32f.chunk.js",
     "static/css/main.b4b2e9c0.chunk.css",
-    "static/js/main.08525aa4.chunk.js"
+    "static/js/main.bc17cc9e.chunk.js"
   ]
 }
