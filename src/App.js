@@ -1,12 +1,12 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route, Link } from "react-router-dom";
+import {Switch, Route, HashRouter} from "react-router-dom";
 import styles from './App.module.css';
 import PasswordAnswer from './PasswordAnswer';
 
 function App() {
   return (
     <div className={styles.app}>
-      <BrowserRouter>
+      <HashRouter>
         <Switch>
           <Route path="/soul">
             <PasswordAnswer stone="soul" correctAnswer="maze" hint="where are you?" initShow/>
@@ -25,7 +25,7 @@ function App() {
             <p>But sorry you are in the wrong place.</p>
           </Route>
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
