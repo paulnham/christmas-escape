@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/escape-room-password/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/escape-room-password/static/js/main.fd98d8ba.chunk.js",
+    "main.js.map": "/escape-room-password/static/js/main.fd98d8ba.chunk.js.map",
+    "runtime-main.js": "/escape-room-password/static/js/runtime-main.1f20c0ef.js",
+    "runtime-main.js.map": "/escape-room-password/static/js/runtime-main.1f20c0ef.js.map",
+    "static/js/2.5d983482.chunk.js": "/escape-room-password/static/js/2.5d983482.chunk.js",
+    "static/js/2.5d983482.chunk.js.map": "/escape-room-password/static/js/2.5d983482.chunk.js.map",
+    "static/js/3.71b729b5.chunk.js": "/escape-room-password/static/js/3.71b729b5.chunk.js",
+    "static/js/3.71b729b5.chunk.js.map": "/escape-room-password/static/js/3.71b729b5.chunk.js.map",
+    "index.html": "/escape-room-password/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/escape-room-password/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.5d983482.chunk.js.LICENSE.txt": "/escape-room-password/static/js/2.5d983482.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/escape-room-password/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f20c0ef.js",
+    "static/js/2.5d983482.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.fd98d8ba.chunk.js"
+  ]
+}
