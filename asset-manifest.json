@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/escape-room-password/static/css/main.b4b2e9c0.chunk.css",
-    "main.js": "/escape-room-password/static/js/main.bc17cc9e.chunk.js",
-    "main.js.map": "/escape-room-password/static/js/main.bc17cc9e.chunk.js.map",
+    "main.js": "/escape-room-password/static/js/main.9592d4e5.chunk.js",
+    "main.js.map": "/escape-room-password/static/js/main.9592d4e5.chunk.js.map",
     "runtime-main.js": "/escape-room-password/static/js/runtime-main.f20e720f.js",
     "runtime-main.js.map": "/escape-room-password/static/js/runtime-main.f20e720f.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/escape-room-password/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.861ca32f.chunk.js": "/escape-room-password/static/js/2.861ca32f.chunk.js",
-    "static/js/2.861ca32f.chunk.js.map": "/escape-room-password/static/js/2.861ca32f.chunk.js.map",
+    "static/js/2.748f9fb9.chunk.js": "/escape-room-password/static/js/2.748f9fb9.chunk.js",
+    "static/js/2.748f9fb9.chunk.js.map": "/escape-room-password/static/js/2.748f9fb9.chunk.js.map",
     "static/js/3.ef47c3c3.chunk.js": "/escape-room-password/static/js/3.ef47c3c3.chunk.js",
     "static/js/3.ef47c3c3.chunk.js.map": "/escape-room-password/static/js/3.ef47c3c3.chunk.js.map",
     "index.html": "/escape-room-password/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/escape-room-password/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.b4b2e9c0.chunk.css.map": "/escape-room-password/static/css/main.b4b2e9c0.chunk.css.map",
-    "static/js/2.861ca32f.chunk.js.LICENSE.txt": "/escape-room-password/static/js/2.861ca32f.chunk.js.LICENSE.txt",
+    "static/js/2.748f9fb9.chunk.js.LICENSE.txt": "/escape-room-password/static/js/2.748f9fb9.chunk.js.LICENSE.txt",
     "static/media/mind-stone-ans.cc9a3f87.jpg": "/escape-room-password/static/media/mind-stone-ans.cc9a3f87.jpg",
     "static/media/soul-stone-ans.5045aa56.jpg": "/escape-room-password/static/media/soul-stone-ans.5045aa56.jpg",
     "static/media/space-stone-ans.5ac285f9.jpg": "/escape-room-password/static/media/space-stone-ans.5ac285f9.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.f20e720f.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.861ca32f.chunk.js",
+    "static/js/2.748f9fb9.chunk.js",
     "static/css/main.b4b2e9c0.chunk.css",
-    "static/js/main.bc17cc9e.chunk.js"
+    "static/js/main.9592d4e5.chunk.js"
   ]
 }
