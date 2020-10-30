@@ -3,11 +3,17 @@ import {Switch, Route, HashRouter} from "react-router-dom";
 import styles from './App.module.css';
 import PasswordAnswer from './PasswordAnswer';
 
+import guide from './EscapeRoomGuide.pdf';
+import EmbeddedPdf from "./EmbeddedPdf";
+
 function App() {
   return (
     <div className={styles.app}>
       <HashRouter>
         <Switch>
+          <Route path="/intro">
+            <EmbeddedPdf src={guide} />
+          </Route>
           <Route path="/soul">
             <PasswordAnswer stone="soul" correctAnswer="maze" hint="where are you?" initShow/>
           </Route>
