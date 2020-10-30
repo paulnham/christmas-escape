@@ -21,10 +21,10 @@ function App() {
             <PasswordAnswer stone="space" correctAnswer="maze" hint="where are you?" initShow={false}/>
           </Route>
           <Route path="/time">
-            <PasswordAnswer stone="time" correctAnswer="16" hint="it's a number" initShow={false}/>
+            <PasswordAnswer stone="time" correctAnswer="28" hint="it's a number" initShow={false}/>
           </Route>
           <Route path="/mind">
-            <PasswordAnswer stone="mind" correctAnswer="3645" hint="it's a 4 digit number" initShow={false}/>
+            <PasswordAnswer stone="mind" correctAnswer="4756" hint="it's a 4 digit number" initShow={false}/>
           </Route>
           <Route path="/">
             <h1>Welcome to Gather Town Escape Room!</h1>
