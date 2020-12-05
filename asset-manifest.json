@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/christmas-escape/static/css/main.b8f5ee58.chunk.css",
-    "main.js": "/christmas-escape/static/js/main.58cd2cba.chunk.js",
-    "main.js.map": "/christmas-escape/static/js/main.58cd2cba.chunk.js.map",
+    "main.js": "/christmas-escape/static/js/main.51f3e4ab.chunk.js",
+    "main.js.map": "/christmas-escape/static/js/main.51f3e4ab.chunk.js.map",
     "runtime-main.js": "/christmas-escape/static/js/runtime-main.0d35c5c9.js",
     "runtime-main.js.map": "/christmas-escape/static/js/runtime-main.0d35c5c9.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/christmas-escape/static/css/2.20aa2d7b.chunk.css",
@@ -15,16 +15,16 @@
     "static/css/main.b8f5ee58.chunk.css.map": "/christmas-escape/static/css/main.b8f5ee58.chunk.css.map",
     "static/js/2.bc4274f2.chunk.js.LICENSE.txt": "/christmas-escape/static/js/2.bc4274f2.chunk.js.LICENSE.txt",
     "static/media/EscapeRoomGuide.e943c9db.pdf": "/christmas-escape/static/media/EscapeRoomGuide.e943c9db.pdf",
-    "static/media/mind-stone-ans.cc9a3f87.jpg": "/christmas-escape/static/media/mind-stone-ans.cc9a3f87.jpg",
+    "static/media/PresentRoom_Hint.255899f2.png": "/christmas-escape/static/media/PresentRoom_Hint.255899f2.png",
+    "static/media/nutcracker_hint.86352619.png": "/christmas-escape/static/media/nutcracker_hint.86352619.png",
     "static/media/soul-stone-ans.5045aa56.jpg": "/christmas-escape/static/media/soul-stone-ans.5045aa56.jpg",
-    "static/media/space-stone-ans.5ac285f9.jpg": "/christmas-escape/static/media/space-stone-ans.5ac285f9.jpg",
-    "static/media/time-stone-ans.44243113.jpg": "/christmas-escape/static/media/time-stone-ans.44243113.jpg"
+    "static/media/space-stone-ans.5ac285f9.jpg": "/christmas-escape/static/media/space-stone-ans.5ac285f9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0d35c5c9.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.bc4274f2.chunk.js",
     "static/css/main.b8f5ee58.chunk.css",
-    "static/js/main.58cd2cba.chunk.js"
+    "static/js/main.51f3e4ab.chunk.js"
   ]
 }
