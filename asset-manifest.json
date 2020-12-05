@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/christmas-escape/static/css/main.b8f5ee58.chunk.css",
-    "main.js": "/christmas-escape/static/js/main.4ee2171e.chunk.js",
-    "main.js.map": "/christmas-escape/static/js/main.4ee2171e.chunk.js.map",
+    "main.js": "/christmas-escape/static/js/main.b63c41dc.chunk.js",
+    "main.js.map": "/christmas-escape/static/js/main.b63c41dc.chunk.js.map",
     "runtime-main.js": "/christmas-escape/static/js/runtime-main.0d35c5c9.js",
     "runtime-main.js.map": "/christmas-escape/static/js/runtime-main.0d35c5c9.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/christmas-escape/static/css/2.20aa2d7b.chunk.css",
@@ -14,7 +14,6 @@
     "static/css/2.20aa2d7b.chunk.css.map": "/christmas-escape/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.b8f5ee58.chunk.css.map": "/christmas-escape/static/css/main.b8f5ee58.chunk.css.map",
     "static/js/2.bc4274f2.chunk.js.LICENSE.txt": "/christmas-escape/static/js/2.bc4274f2.chunk.js.LICENSE.txt",
-    "static/media/EscapeRoomGuide.e943c9db.pdf": "/christmas-escape/static/media/EscapeRoomGuide.e943c9db.pdf",
     "static/media/Intro.f0798508.pdf": "/christmas-escape/static/media/Intro.f0798508.pdf",
     "static/media/PresentRoom_Hint.255899f2.png": "/christmas-escape/static/media/PresentRoom_Hint.255899f2.png",
     "static/media/nutcracker_hint.86352619.png": "/christmas-escape/static/media/nutcracker_hint.86352619.png",
@@ -26,6 +25,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.bc4274f2.chunk.js",
     "static/css/main.b8f5ee58.chunk.css",
-    "static/js/main.4ee2171e.chunk.js"
+    "static/js/main.b63c41dc.chunk.js"
   ]
 }
