@@ -1,15 +1,15 @@
 import React, { useState } from 'react';
 import { Button, Form, Image } from "react-bootstrap";
-import mindstoneAns from './mind-stone-ans.jpg';
-import timestoneAns from './time-stone-ans.jpg';
+import presentAns from './PresentRoom_Hint.png';
+import nutcrackerAns from './nutcracker_hint.png';
 import soulstoneAns from './soul-stone-ans.jpg';
 import spacestoneAns from './space-stone-ans.jpg';
 
 import styles from './PasswordAnswer.module.css';
 
 const STONE_IMG_PAIRS = {
-  mind: mindstoneAns,
-  time: timestoneAns,
+  present: presentAns,
+  nutcracker: nutcrackerAns,
   soul: soulstoneAns,
   space: spacestoneAns,
 }
