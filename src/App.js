@@ -3,7 +3,7 @@ import {Switch, Route, HashRouter} from "react-router-dom";
 import styles from './App.module.css';
 import PasswordAnswer from './PasswordAnswer';
 
-import guide from './EscapeRoomGuide.pdf';
+import guide from './Intro.pdf';
 import EmbeddedPdf from "./EmbeddedPdf";
 
 function App() {
