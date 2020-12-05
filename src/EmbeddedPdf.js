@@ -1,5 +1,5 @@
 import React from 'react';
-import guide from "./EscapeRoomGuide.pdf";
+import guide from "./Intro.pdf";
 import styles from './EmbeddedPdf.module.css';
 
 const EmbeddedPdf = ({ src }) => (
